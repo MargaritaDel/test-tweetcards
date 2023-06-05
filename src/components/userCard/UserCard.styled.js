@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 export const CardBackground = styled.li`
   position: relative;
   width: 380px;
-  height: 432px;
+  height: 460px;
   margin-left: auto;
   margin-right: auto;
   padding-top: 28px;

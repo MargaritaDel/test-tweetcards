@@ -12,11 +12,11 @@ export const MainContainer = styled.ul`
 
 export const LoadMoreButtonWrapper = styled.div`
 margin-top: 26px;
-    margin-bottom: 36px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+margin-bottom: 36px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
 }
 `;
 

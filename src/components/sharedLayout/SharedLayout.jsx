@@ -2,7 +2,6 @@ import { NavLink, Outlet } from "react-router-dom";
 import { FaHome, FaTwitter } from 'react-icons/fa';
 import { Header, Main, Nav, Backdrop } from "./SharedLayout.styled";
 import { Suspense } from "react";
-import { ThreeDots } from "react-loader-spinner";
 
 export default function SharedLayout() {
   return (

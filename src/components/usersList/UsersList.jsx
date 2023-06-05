@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "react";
+import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { selectIsLoading, selectUsers } from "../../redux/selectors";
 import { PER_PAGE, fetchUsers } from "../../redux/operations";

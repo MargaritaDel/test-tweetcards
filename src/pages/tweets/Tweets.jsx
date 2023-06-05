@@ -1,5 +1,5 @@
 import { useLocation } from "react-router-dom";
-import { BackButton, LoadMoreButtonWrapper } from "./Tweets.styled";
+import { BackButton } from "./Tweets.styled";
 import UsersList from "../../components/usersList/UsersList";
 import { useEffect, useRef } from "react";
 
